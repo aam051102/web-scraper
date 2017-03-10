@@ -1,0 +1,6 @@
+F:\DAM72\PROJECT\WebScraper\WebScraper\bin\Debug\WebScraper.exe.config
+F:\DAM72\PROJECT\WebScraper\WebScraper\bin\Debug\WebScraper.exe
+F:\DAM72\PROJECT\WebScraper\WebScraper\bin\Debug\WebScraper.pdb
+F:\DAM72\PROJECT\WebScraper\WebScraper\obj\Debug\WebScraper.csprojResolveAssemblyReference.cache
+F:\DAM72\PROJECT\WebScraper\WebScraper\obj\Debug\WebScraper.exe
+F:\DAM72\PROJECT\WebScraper\WebScraper\obj\Debug\WebScraper.pdb
